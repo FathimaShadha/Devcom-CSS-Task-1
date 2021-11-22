@@ -84,3 +84,26 @@
 
 
 /* Enter your CSS here :) */
+.firstsection {
+  height: 400px;
+  background-color: #f0d9ff;
+}
+.secondsection {
+  height: 400px;
+  background-color: #c68b59;
+}
+.thirdsection {
+  height: 400px;
+  background-color: #d5eebb;
+}
+.btn-sm {
+  background: none;
+  color: #ffffff;
+  border: solid 2px #ffffff;
+  border-radius: 8px;
+}
+#search {
+  font-size: 17px;
+  border: solid 2px #a0a0a0;
+  border-radius: 9px;
+}
